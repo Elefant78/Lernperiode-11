@@ -22,9 +22,21 @@ Ich habe zwei Arbeitspakete erfolgreich abgeschlossen: Die Bewerbungswebsite wur
 ## 29.8
 
 - [ ] Arbeitspaket 1 Layout für RaiseMyBrainrot erstellen
+#### Als Team-Leiter
+möchte ich ein Layout für die Handyapplikation 
+damit ich weitere Schritte richtung Programmierung planen kann
 - [ ] Arbeitspaket 2 Mini GPT verstehen und selber auch implementieren
-- [ ] Arbeitspaket 3 Game Konzept erstellen 
+#### Als Lernender 
+möchte ich ein tieferes verständins aus dem Mini Gpt gewinn 
+damit kann ich selber auch so eine  programmieren erstellen
+- [ ] Arbeitspaket 3 Game Konzept erstellen
+#### Als Investor 
+möchte ich einen Game Konzept haben
+damit ich weiss ob die Idee eine Zukunft hat und es sich Lohnt in es zu investieren
 - [ ] Arbeitspaket 4 Präsentation für SNB erstellen(Arbeitspaket in Riederregel)
+#### Als Mitarbeiter der SNB
+möchte ich einen bessern Einblick im Leben von Tim Tafolli bekommen
+damit kann ich mir ein Bild von ihm erschaffen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
