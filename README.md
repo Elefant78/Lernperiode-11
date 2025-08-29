@@ -38,6 +38,6 @@ damit ich weiss ob die Idee eine Zukunft hat und es sich Lohnt in es zu investie
 möchte ich einen bessern Einblick im Leben von Tim Tafolli bekommen
 damit kann ich mir ein Bild von ihm erschaffen
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich einen guten Arbeitstag gehabt, vor allem hatte ich viel abwechslung, somit hatte ich keine Langweille und konnte effektiv arbeiten. Meine Leiblingsaufgabe ware es den Code zu verstehen und selber zu überarbeiten. Leider konnte ich einer der vier User-Storys nicht machen. Das ist das Ziek für nächste Woche. Ich denke diese User Story kann ich gut in der Rieder-Riegel Block berabeiten.
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
