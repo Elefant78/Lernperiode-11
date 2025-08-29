@@ -50,5 +50,17 @@ Heute habe ich einen guten Arbeitstag gehabt, vor allem hatte ich viel abwechslu
 #### Als Team-Leiter
 möchte ich ein Layout für die Handyapplikation 
 damit ich weitere Schritte richtung Programmierung planen kann
-- [ ] Arbeitspaket 2 Mini GPT verstehen und selber auch implementieren
+
+### Als Chef
+möchte ich sehen können ob du mit dem Projekt angefangen hast, damit kann ich weiter planen
+
+
+#### als Sprachschüler,
+möchte ich nach Eingabe von zwei Wörtern eine Vorhersage für das nächste Wort erhalten,
+damit ich beim Schreiben von Texten unterstützt werde und typische Satzmuster schneller lernen kann.
+
+
+#### Als Texter oder Autor,
+möchte ich eine automatische Wortvorhersage basierend auf einem Korpus,
+damit ich beim Tippen Zeit spare und meinen Schreibfluss verbessern kann.
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
