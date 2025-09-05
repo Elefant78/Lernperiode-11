@@ -1,0 +1,39 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RaiseMyBrainrot.MainPage"
+             Title="RaiseMyBrainrot">
+
+    <VerticalStackLayout Padding="20" Spacing="20">
+
+        <!-- Charakter -->
+        <Image Source="brainrot.png"
+               HeightRequest="150"
+               HorizontalOptions="Center" />
+
+        <!-- Statusleisten -->
+        <Label Text="Entertainment" />
+        <ProgressBar x:Name="EntertainmentBar" Progress="0.5" />
+
+        <Label Text="Social" />
+        <ProgressBar x:Name="SocialBar" Progress="0.5" />
+
+        <Label Text="Knowledge" />
+        <ProgressBar x:Name="KnowledgeBar" Progress="0.5" />
+
+        <Label Text="Energy" />
+        <ProgressBar x:Name="EnergyBar" Progress="0.5" />
+
+        <Label Text="Sleep" />
+        <ProgressBar x:Name="SleepBar" Progress="0.5" />
+
+        <!-- Buttons -->
+        <HorizontalStackLayout Spacing="10">
+            <Button Text="🎮 Play" Clicked="OnPlayClicked"/>
+            <Button Text="💬 Chat" Clicked="OnChatClicked"/>
+            <Button Text="📘 Learn" Clicked="OnLearnClicked"/>
+            <Button Text="☕ Energy" Clicked="OnEnergyClicked"/>
+            <Button Text="😴 Sleep" Clicked="OnSleepClicked"/>
+        </HorizontalStackLayout>
+
+    </VerticalStackLayout>
+</ContentPage>
