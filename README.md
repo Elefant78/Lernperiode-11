@@ -45,7 +45,7 @@ damit kann ich mir ein Bild von ihm erschaffen
 
 Heute habe ich einen guten Arbeitstag gehabt, vor allem hatte ich viel abwechslung, somit hatte ich keine Langweille und konnte effektiv arbeiten. Meine Leiblingsaufgabe ware es den Code zu verstehen und selber zu überarbeiten. Leider konnte ich einer der vier User-Storys nicht machen. Das ist das Ziek für nächste Woche. Ich denke diese User Story kann ich gut in der Rieder-Riegel Block berabeiten.
 
-## 29.8
+## 05.09
 
 #### Als Team-Leiter
 möchte ich ein Layout für die Handyapplikation 
@@ -63,4 +63,24 @@ damit ich beim Schreiben von Texten unterstützt werde und typische Satzmuster s
 #### Als Texter oder Autor,
 möchte ich eine automatische Wortvorhersage basierend auf einem Korpus,
 damit ich beim Tippen Zeit spare und meinen Schreibfluss verbessern kann.
+
+Heute habe ich mehr an meiner App weiter gearbeitet. alws zu nächst gedacht. Ich wollte eigentlich mehr an dem MiniGPT arbeitet, doch die die App hat mehr spass gemacht. ichhabe ein Paar Buttons implementiert und so zusagen ein Grundgerüst für das Projekt geschaffen. Mein Ziel ist weitere Features zu implementieren, wie verschiedene Brainrots, ein Mini-Game und eine Lebensanzeige. Den Code habe ich selbstverständlich hochgeladen
+
+## 12.09
+
+#### Als Player 
+möchte ich die Lebenszeit meines Brainrots sehen, um zu wissen wie lange er noch überleben kann. 
+
+### Als Player 
+möchte zwischen verschiedensten Brainrots auswählen können, um mehr abwechslung zu haben.
+
+### Als Player 
+möchte ein Sociual Media button, um mit andern Playern Chaten zu können.
+
+#### als Single Player in Reallife
+möchte ein bewerbungsschreiben an die ZKB schicken, um meine Zukunft abzusichern
+
+
+
+
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
