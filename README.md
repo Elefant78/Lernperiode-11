@@ -80,6 +80,27 @@ möchte ein Sociual Media button, um mit andern Playern Chaten zu können.
 #### als Single Player in Reallife
 möchte ein bewerbungsschreiben an die ZKB schicken, um meine Zukunft abzusichern
 
+Heute habe ich zusätzliche User Stories für das Projekt RaiseMyBrainrot definiert. Dabei stand im Fokus, die Spielmechaniken und Interaktionsmöglichkeiten weiter auszubauen. Ziel ist es, den Spielern mehr Motivation und Abwechslung zu bieten. Diese Erweiterungen bilden die Grundlage für kommende Implementierungsschritte in der App.
+
+## 17.09
+
+
+Als Player
+möchte ich eine tägliche Belohnung beim Login erhalten,
+um motiviert zu sein, regelmäßig zurückzukehren.
+
+Als Player
+möchte ich Mini-Games spielen können,
+um Braincells zu verdienen und meinen Brainrot zu verbessern.
+
+Als Player
+möchte ich meinen Brainrot mit Skins personalisieren können,
+um ihn einzigartig zu gestalten.
+
+Als Player
+möchte ich Statistiken über meinen Spielstil sehen,
+um nachvollziehen zu können, wie ich meinen Brainrot entwickelt habe.
+
 
 
 
