@@ -101,7 +101,25 @@ Als Player
 möchte ich Statistiken über meinen Spielstil sehen,
 um nachvollziehen zu können, wie ich meinen Brainrot entwickelt habe.
 
+Ich habe die definierten User Stories erfolgreich umgesetzt und dadurch die Spielmechanik von RaiseMyBrainrot erweitert. Spieler erhalten nun tägliche Belohnungen, können Mini-Games spielen, ihren Brainrot mit Skins personalisieren und Statistiken einsehen. Diese Features steigern sowohl die Motivation als auch die Individualisierungsmöglichkeiten innerhalb des Spiels deutlich.
 
+## 26.09
+
+Als Player
+möchte ich einen Shop besuchen können,
+um Skins, Items und Power-Ups mit Braincells zu kaufen.
+
+Als Player
+möchte ich eine Freundesliste haben,
+um mich mit anderen Spielern zu verbinden und zu vergleichen.
+
+Als Player
+möchte ich Push-Benachrichtigungen erhalten,
+um daran erinnert zu werden, meinen Brainrot zu pflegen.
+
+Als Player
+möchte ich Events mit besonderen Herausforderungen erleben,
+um exklusive Belohnungen und seltene Skins freizuschalten.
 
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
