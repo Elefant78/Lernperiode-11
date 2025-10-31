@@ -123,5 +123,13 @@ um exklusive Belohnungen und seltene Skins freizuschalten.
 
 Heute war ich leider Krank, deswegen werde ich diese Arbeitpakete nächste Woche machen.
 
+## Das fertige Projekt
+
+
+Das fertige Projekt RaiseMyBrainrot ist ein Mobile Game, entwickelt mit .NET MAUI. Ziel des Spiels ist es, einen digitalen Charakter den „Brainrot“ zu pflegen, zu entwickeln und individuell zu gestalten. Spieler können durch tägliche Belohnungen, Mini-Games und Statistiken Fortschritte erzielen. Zusätzlich lassen sich Skins freischalten, die dem Charakter ein einzigartiges Aussehen verleihen. Die App kombiniert spielerische Motivation mit einem modernen, humorvollen Design, das an klassische Tamagotchi-Mechaniken erinnert.
+
+
+## Reflexion
+Während der Entwicklung konnte ich meine Kenntnisse in C# und .NET MAUI deutlich vertiefen. Besonders spannend war es, logische Abläufe und Benutzeroberfläche miteinander zu verbinden. Herausforderungen lagen in der Statusverwaltung und der Spielbalance, konnten jedoch erfolgreich gelöst werden. Insgesamt bin ich mit dem Endresultat sehr zufrieden und sehe grosses Potenzial, das Spiel weiter auszubauen etwa durch Online-Funktionen oder neue Mini-Games.
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
