@@ -121,5 +121,7 @@ Als Player
 möchte ich Events mit besonderen Herausforderungen erleben,
 um exklusive Belohnungen und seltene Skins freizuschalten.
 
+Heute war ich leider Krank, deswegen werde ich diese Arbeitpakete nächste Woche machen.
+
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
